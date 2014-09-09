@@ -12,6 +12,8 @@ Upon selecting tip amount, formatted tip value is displayed
 
 As well as optional objective:
 User changes the total amount and updated tip is reflected automatically
+Improved UI by adding colors for buttons and using nested relative views
 
 Here is .gif of the project in action:
 
+![Tip Calculator Walkthrough Gif](TipCalculatorWalkthrogh.gif)
